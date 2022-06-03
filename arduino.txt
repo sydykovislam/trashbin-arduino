@@ -1,4 +1,4 @@
-#include <Servo.h>  //INCLUDES SERVO LIBRARY
+#include <Servo.h> 
 
 Servo servo;
 int trig = 10;
